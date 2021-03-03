@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.Resultado_de_adivinar_tu_numero"
+             Title="ADIVINAR EL NUMERO QUE ESTAS PENSANDO">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="M9"
+            Text="AHORA ESCRIBE TU RESULTADO AQUI"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label
+             Text=""/>
+            <Label
+             Text=""/>
+
+            <Entry Placeholder="Resultado" x:Name="gr"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="110"
+             TextColor="Red"
+             PlaceholderColor="Red"/>
+            <Label
+             Text=""/>
+
+
+
+
+            <Button x:Name="Buton4"
+            Text="CALCULAR"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Green"
+            BackgroundColor="Yellow"
+            BorderColor="Red"
+            BorderWidth="3"
+            CornerRadius="15"
+            WidthRequest="100"
+            HeightRequest="50"/>
+
+
+            <Entry Placeholder="Tu numero es" x:Name="Resul"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="125"
+             TextColor="Red"
+             PlaceholderColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

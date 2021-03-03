@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\bin\Debug\netstandard2.0\PARCIAL 1 PROGRA.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\bin\Debug\netstandard2.0\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\bin\Debug\netstandard2.0\ref\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\bin\Debug\netstandard2.0\PARCIAL 1 PROGRA.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\ref\PARCIAL 1 PROGRA.dll
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\PARCIAL 1 PROGRA.pdb
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\Adivinar tu numero.xaml.g.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\Resultado de adivinar tu numero.xaml.g.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\Adivinar tu fecha.xaml.g.cs
+C:\Users\Usuario\Desktop\PARCIAL 1 PROGRA\PARCIAL 1 PROGRA\obj\Debug\netstandard2.0\Resultado de adivinar tu fecha.xaml.g.cs

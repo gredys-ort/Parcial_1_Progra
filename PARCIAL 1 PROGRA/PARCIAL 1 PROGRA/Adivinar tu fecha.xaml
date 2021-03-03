@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.Adivinar_tu_fecha"
+             Title="ADIVINAR TU FECHA DE NACIMIENTO">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label x:Name="cal"
+             Text="USA TU CALCULADORA DE TU CEL E INGRESA LOS SIGUIENTES DATOS "
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             TextColor="Aqua"
+            FontSize="22"/>
+
+            <Label
+             Text=""/>
+            <Label
+             Text=""/>
+            <Label
+             Text=""/>
+            
+            <Label x:Name="M10"
+            Text="PASO 1"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label x:Name="M11"
+            Text="Ingresa el dia en que naciste"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Red"
+            FontSize="25"/>
+
+            <Label
+             Text=""/>
+
+            <Label x:Name="M12"
+            Text="PASO 2"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label x:Name="M13"
+            Text="Ahora multiplicalo * 20"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Red"
+            FontSize="25"/>
+
+            <Label
+             Text=""/>
+            
+            <Label x:Name="M14"
+            Text="PASO 3"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label x:Name="M15"
+            Text="Sumale + 73"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Red"
+            FontSize="25"/>
+
+            <Label
+             Text=""/>
+
+            <Label x:Name="M16"
+            Text="PASO 4"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label x:Name="M17"
+            Text="Multiplicalo * 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Red"
+            FontSize="25"/>
+
+            <Label
+             Text=""/>
+
+
+            <Label x:Name="M18"
+            Text="PASO 5"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="25"/>
+            <Label x:Name="M19"
+            Text="Ahora sumale tu mes de nacimiento"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Red"
+            FontSize="25"/>
+
+            <Label
+             Text=""/>
+
+            <Button x:Name="Buton5"
+             Text="Siguiente Paso"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             TextColor="Green"
+             BackgroundColor="Yellow"
+             BorderColor="Red"
+             BorderWidth="3"
+             CornerRadius="15"
+             WidthRequest="175"
+             HeightRequest="50"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

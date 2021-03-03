@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PARCIAL_1_PROGRA.Resultado_de_adivinar_tu_fecha"
+             Title="ADIVINAR TU FECHA DE NACIMIENTO">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="M20"
+            Text="AHORA ESCRIBE TU RESULTADO AQUI"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+             TextColor="Aqua"
+            FontSize="25"/>
+            <Label
+             Text=""/>
+            <Label
+             Text=""/>
+
+            <Entry  Placeholder="Resultado" x:Name="el"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="110"
+             TextColor="Red"
+             PlaceholderColor="Red"/>
+            <Label
+             Text=""/>
+
+
+
+            <Button x:Name="Buton6"
+            Text="CALCULAR"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Green"
+            BackgroundColor="Yellow"
+            BorderColor="Red"
+            BorderWidth="3"
+            CornerRadius="15"
+            WidthRequest="100"
+            HeightRequest="50"/>
+
+            <Entry Placeholder="Tu fecha es" x:Name="Resul2"
+             VerticalOptions="Center"
+             HorizontalOptions="Center"
+             WidthRequest="125"
+             TextColor="Red"
+             PlaceholderColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

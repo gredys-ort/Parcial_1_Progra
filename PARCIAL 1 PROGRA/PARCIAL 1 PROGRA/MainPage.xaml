@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PARCIAL_1_PROGRA"
+             x:Class="PARCIAL_1_PROGRA.MainPage"
+             Title="MENU PRINCIPAL">
+
+    <StackLayout Orientation="Vertical">
+
+        <Label x:Name="MenuPrincipal"
+            Text="BIENVENIDOS A LA APP DEL MAGO MAGINI"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="30"/>
+
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+
+
+
+
+        <Button x:Name="Buton1"
+            Text="ADIVINAR EL NUMERO QUE ESTAS PENSANDO"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            BackgroundColor="Green"
+            BorderColor="Yellow"
+            BorderWidth="3"
+            CornerRadius="15"
+            WidthRequest="350"
+            HeightRequest="50"/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        
+        <Label Text="O"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="15"/>
+        
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+
+
+        <Button x:Name="Buton2"
+            Text="ADIVINAR TU FECHA DE CUMPLEAÑOS"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            BackgroundColor="Green"
+            BorderColor="Yellow"
+            BorderWidth="3"
+            CornerRadius="15"
+            WidthRequest="350"
+            HeightRequest="50"/>
+
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        <Label
+             Text=""/>
+        
+        <Label x:Name="parcial1"
+            Text="PARCIAL 1 PROGRAMACION"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            TextColor="Aqua"
+            FontSize="15"/>
+
+    </StackLayout>
+
+</ContentPage>
